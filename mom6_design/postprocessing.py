@@ -29,6 +29,9 @@ def pad_ice_model(ds):
     return ds_padded
 
 def transpose_like_ref(ds, ref):
+    """MOM6 needs the varaible data to have the exact same axes as befoer"""
+    ds = ds.copy()
+    ref = ref.copy()
     ds_trans = ds.copy()
     for dvar in ds.data_vars:
         ds_trans[dvar] = ds_trans[dvar].transpose(*ref[dvar].dims)
