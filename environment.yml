@@ -15,3 +15,4 @@ dependencies:
   - datashader
   - netcdf4
   - nc-time-axis
+  - xrviz
