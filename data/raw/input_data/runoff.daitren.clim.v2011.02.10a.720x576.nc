@@ -1,0 +1,1 @@
+/tigress/GEOCLIM/LRGROUP/datasets/COREv2/runoff.daitren.clim.v2011.02.10a.720x576.nc

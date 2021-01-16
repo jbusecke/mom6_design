@@ -1,0 +1,1 @@
+/scratch/gpfs2/GEOCLIM/LRGROUP/MOM6_BGC/datasets/news_nutrients_quarterdeg_20150918_v2.nc

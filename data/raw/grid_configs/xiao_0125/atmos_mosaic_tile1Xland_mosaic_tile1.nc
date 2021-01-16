@@ -1,0 +1,1 @@
+/tigress/GEOCLIM/LRGROUP/jbusecke/model_grids/from_xiao/data/GIS_0125/atmos_mosaic_tile1Xland_mosaic_tile1.nc

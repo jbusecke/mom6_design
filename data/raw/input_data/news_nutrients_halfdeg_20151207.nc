@@ -1,0 +1,1 @@
+/scratch/gpfs/GEOCLIM/LRGROUP/MOM6_BGC/datasets/news_nutrients_halfdeg_20151207.nc
